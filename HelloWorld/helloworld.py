@@ -1,0 +1,6 @@
+print('Hello, World!')
+print(1 + 6)
+print(7 * 9)
+print()
+print("a function can accept more than one arguments", "it can print strings", "it can print numbers", 3, 5 * 4)
+print("The End")
